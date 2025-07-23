@@ -6,7 +6,7 @@
   * Сводные таблицы & Дашборды 2 - дашборд
 
 ## Также можно взглянуть по ссылке:
-Таблицы 
+Таблицы \n
 https://docs.google.com/spreadsheets/d/14uvwbkYS_Bfr1Y4XNEnwuSk-3i68nFOw/edit?usp=sharing&ouid=116716409803934657038&rtpof=true&sd=true
 
 Дашборд 
